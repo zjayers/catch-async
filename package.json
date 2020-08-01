@@ -2,18 +2,18 @@
   "name": "catch-thread",
   "version": "1.0.0",
   "description": "",
-  "main": "catch-thread.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/zjayers/catch-async#readme",
+  "bugs": {
+    "url": "https://github.com/zjayers/catch-async/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zjayers/catch-async.git"
   },
-  "author": "Zach Ayers",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zjayers/catch-async/issues"
-  },
-  "homepage": "https://github.com/zjayers/catch-async#readme"
+  "author": "Zach Ayers",
+  "main": "catch-thread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
