@@ -1,8 +1,7 @@
 # Catch-Async
-[![GitHub Release](https://img.shields.io/github/release/zjayers/catch-async.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/catch-async.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/catch-async.svg?style=flat)](https://github.com/zjayers/catch-async/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/catch-async.svg?style=flat)](https://github.com/zjayers/catch-async/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/catch-async.svg?maxAge=25000)](https://github.com/zjayers/catch-async/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/catch-async/blob/master/LICENSEs)
 
 ## Description
 
